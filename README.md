@@ -1,5 +1,4 @@
-# CLASIFICACIÓN DE POKÉMON LEGENDARIOS: IMPUTACIÓN DE `SPEED` MEDIANTE REGRESIÓN Y VALIDACIÓN EN CLASIFICACIÓN
-
+# **ESTIMACIÓN DE LA VELOCIDAD DE LOS POKÉMON MEDIANTE MODELOS SUPERVISADOS: REGRESIÓN Y VALIDACIÓN MEDIANTE CLASIFICACIÓN**
 ## Descripción
 Este proyecto analiza la variable `speed` (velocidad) en un dataset de Pokémon y evalúa si es posible estimarla a partir de otras estadísticas. El objetivo principal es imputar valores faltantes de `speed` mediante modelos de regresión y comprobar si esa imputación afecta el desempeño de una clasificación binaria: identificar Pokémon legendarios (`is_legendary`).
 
@@ -40,3 +39,4 @@ La velocidad describe un estilo o rol de combate más que una regla deducible de
 
 ## Autor
 Sebastian Pelaez Villalba
+
